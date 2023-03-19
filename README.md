@@ -21,3 +21,6 @@ All projects are build from sratch to all the way till it solves the real life p
  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <img src="https://komarev.com/ghpvc/?username=laxman159&label=Profile%20views&color=0eb1b4&style=plastic" alt="laxman159" />
+
+### 📊 Stats
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar1812&show_icons=true&theme=gruvbox)
